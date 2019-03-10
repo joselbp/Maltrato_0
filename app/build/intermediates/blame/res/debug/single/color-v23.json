@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\f310effcb062b16a7bde4896ddd2d973\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\color-v23\\abc_tint_spinner.xml"
+    }
+]

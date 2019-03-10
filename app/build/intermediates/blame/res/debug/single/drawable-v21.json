@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\f310effcb062b16a7bde4896ddd2d973\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\f310effcb062b16a7bde4896ddd2d973\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\706152049de3807582168594a2abe3de\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\f310effcb062b16a7bde4896ddd2d973\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\0601c995d157c2c7deb5484beb1dc039\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\BolañosPc\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\f310effcb062b16a7bde4896ddd2d973\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

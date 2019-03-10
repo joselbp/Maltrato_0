@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_launcher_foreground.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_huellas_de_animales.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_huellas_de_animales.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_inicio.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_inicio.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\juan.jpg",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\juan.jpg"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_mujer_avatar.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_mujer_avatar.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_pareja_de_ninos.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_pareja_de_ninos.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_localizacion_en_el_mapa.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_localizacion_en_el_mapa.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_exit_to_app_black_24dp.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_llamada_de_emergencia.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_llamada_de_emergencia.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_perm_device_information_black_24dp.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_perm_device_information_black_24dp.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_barras_del_grafico_para_arriba.xml",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\ic_barras_del_grafico_para_arriba.xml"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\jose.jpg",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\jose.jpg"
+    },
+    {
+        "merged": "J:\\Desktop\\Maltrato_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\banner.jpg",
+        "source": "J:\\Desktop\\Maltrato_0\\app\\src\\main\\res\\drawable-v24\\banner.jpg"
+    }
+]

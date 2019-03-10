@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_salir">Exit</string>
+    <string name="action_settings">About ...</string>
+    <string name="app_name">Abuse_0</string>
+    <string name="nav_acercade">About ...</string>
+    <string name="nav_exit">Exit</string>
+    <string name="nav_inicio">Home</string>
+    <string name="nav_llamadas">Emergency Calls</string>
+    <string name="nav_niños">Children</string>
+    <string name="nav_parejas">Couples</string>
+    <string name="textView">Children</string>
+    <string name="textView2">Couples</string>
+    <string name="textView5">About ...</string>
+    <string name="textView7">Exit</string>
+    <string name="txtMariana">University Mariana</string>
+    <string name="txtMensaje">Violence is the last refuge of the incompetent."\n"  "                                                               "Isaac Asimov</string>
+    <string name="txting">Systems Engineer</string>
+    <string name="txtinge">Systems Engineer</string>
+    <string name="txtunimar">University Mariana</string>
+</resources>

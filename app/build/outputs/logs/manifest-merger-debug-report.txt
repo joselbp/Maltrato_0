@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f310effcb062b16a7bde4896ddd2d973\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0601c995d157c2c7deb5484beb1dc039\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\f51a0e70122361eb406cf42f19fb7566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8b679d8c86c878a1a05e1b29695f23cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c165af62f3c85b7f55ef27231a52f7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\c7564ae980956a696644af3bd85d927b\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3f209aaa36bb042e6a0dace67ceb2c18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\4581e101a62fdc2da50d13be45a966f1\AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.8.aar\ae0fd7f22a034592d292e088f1107593\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1e612d799f548ee9a346f771142d7fdb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2fd17e87d1f99eb4430e898957d52ba2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c004cc1225f777b03d8c7cf5ddd1d4ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e881451ce70fe53116f74c63a7cf2c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c45c78111d184044dabc8d1350205429\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a1413cf6f86a593e09ee2a620aa2ab65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fd978c6144b850cd47c6cb20d5218d38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\706152049de3807582168594a2abe3de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\eea93efaf5fd48e8d3a4c0742c99a53e\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fe76f55bf03a8930a5b1c42856129b80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\62a3a8852e7318450200d7edd4deba56\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1d161f9d444ed28a222e58d361ffa2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\13e8a08ae70d640a899461bb2f0a99aa\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\95d5cb749ce29346242f48d8840798e0\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5eb66ff246cbdec7da3470af0e10e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\2d0b6af96953139d34f6d51c3cdc3e53\AndroidManifest.xml:2:1-6:12
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c165af62f3c85b7f55ef27231a52f7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c165af62f3c85b7f55ef27231a52f7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\c7564ae980956a696644af3bd85d927b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\c7564ae980956a696644af3bd85d927b\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\eea93efaf5fd48e8d3a4c0742c99a53e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\eea93efaf5fd48e8d3a4c0742c99a53e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\13e8a08ae70d640a899461bb2f0a99aa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\13e8a08ae70d640a899461bb2f0a99aa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\95d5cb749ce29346242f48d8840798e0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\95d5cb749ce29346242f48d8840798e0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\2d0b6af96953139d34f6d51c3cdc3e53\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\2d0b6af96953139d34f6d51c3cdc3e53\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.bolaospc.maltrato_0.MainActivity
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:19:9-22:68
+	android:label
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.example.bolaospc.maltrato_0.SplashScreen
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:theme
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:29:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:34:13-58
+activity#com.example.bolaospc.maltrato_0.MapsActivity
+ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:37:9-39:68
+	android:label
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml:38:13-41
+uses-sdk
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f310effcb062b16a7bde4896ddd2d973\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\f310effcb062b16a7bde4896ddd2d973\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0601c995d157c2c7deb5484beb1dc039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0601c995d157c2c7deb5484beb1dc039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\f51a0e70122361eb406cf42f19fb7566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\f51a0e70122361eb406cf42f19fb7566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8b679d8c86c878a1a05e1b29695f23cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8b679d8c86c878a1a05e1b29695f23cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c165af62f3c85b7f55ef27231a52f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e5c165af62f3c85b7f55ef27231a52f7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\c7564ae980956a696644af3bd85d927b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\c7564ae980956a696644af3bd85d927b\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3f209aaa36bb042e6a0dace67ceb2c18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3f209aaa36bb042e6a0dace67ceb2c18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\4581e101a62fdc2da50d13be45a966f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\4581e101a62fdc2da50d13be45a966f1\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.8.aar\ae0fd7f22a034592d292e088f1107593\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.8.aar\ae0fd7f22a034592d292e088f1107593\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1e612d799f548ee9a346f771142d7fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1e612d799f548ee9a346f771142d7fdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2fd17e87d1f99eb4430e898957d52ba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2fd17e87d1f99eb4430e898957d52ba2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c004cc1225f777b03d8c7cf5ddd1d4ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c004cc1225f777b03d8c7cf5ddd1d4ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e881451ce70fe53116f74c63a7cf2c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e881451ce70fe53116f74c63a7cf2c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c45c78111d184044dabc8d1350205429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c45c78111d184044dabc8d1350205429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a1413cf6f86a593e09ee2a620aa2ab65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a1413cf6f86a593e09ee2a620aa2ab65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fd978c6144b850cd47c6cb20d5218d38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fd978c6144b850cd47c6cb20d5218d38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\706152049de3807582168594a2abe3de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\706152049de3807582168594a2abe3de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\eea93efaf5fd48e8d3a4c0742c99a53e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.4.2.aar\eea93efaf5fd48e8d3a4c0742c99a53e\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fe76f55bf03a8930a5b1c42856129b80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fe76f55bf03a8930a5b1c42856129b80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\62a3a8852e7318450200d7edd4deba56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\62a3a8852e7318450200d7edd4deba56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1d161f9d444ed28a222e58d361ffa2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b1d161f9d444ed28a222e58d361ffa2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\13e8a08ae70d640a899461bb2f0a99aa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.4.2.aar\13e8a08ae70d640a899461bb2f0a99aa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\95d5cb749ce29346242f48d8840798e0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.4.2.aar\95d5cb749ce29346242f48d8840798e0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5eb66ff246cbdec7da3470af0e10e65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5eb66ff246cbdec7da3470af0e10e65\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\2d0b6af96953139d34f6d51c3cdc3e53\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\2d0b6af96953139d34f6d51c3cdc3e53\AndroidManifest.xml:4:5-43
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		ADDED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+		INJECTED from J:\Desktop\Maltrato_0\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.4.2.aar\372ec58093df7c8adbc59e5082cc95e4\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\39570004ab30ca8bf6899656c4bd29b1\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\BolañosPc\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\0e7417fa1c351eeef0dbd01236ade713\AndroidManifest.xml:20:20-65
